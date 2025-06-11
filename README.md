@@ -14,11 +14,66 @@
 
 ## 📋 Installation
 
-```bash
-npm install -g vsce
+✅ Full Installation Guide (for Everyone)
+Follow these simple steps to install the Laravel Fullstack Dev Pack extension locally — no Node.js required!
 
-# Package বানাও
-vsce package
+🔽 Step 1: Repo Download
+Go to the GitHub repository page
 
-# VSIX ফাইল ইনস্টল করো
-code --install-extension laravel-fullstack-dev-pack-1.0.1.vsix
+Click on the green “Code” button
+
+Select “Download ZIP”
+
+Extract the ZIP file anywhere on your PC (e.g., Desktop)
+
+🧩 Step 2: Open the Folder in VS Code
+Open Visual Studio Code
+
+Click on File → Open Folder
+Select the folder you just extracted (e.g., PHP_Laravel_Fullstack_Dev_Pack)
+
+💻 Step 3: Open Terminal in VS Code
+In VS Code, go to the top menu:
+Terminal → New Terminal
+
+Make sure you're inside the extension folder path
+Example:
+
+makefile
+Copy
+Edit
+C:\Users\YourName\Downloads\PHP_Laravel_Fullstack_Dev_Pack>
+📦 Step 4: Install the Extension (.vsix)
+In the terminal, run this command:
+
+bash
+Copy
+Edit
+code --install-extension PHP-LARAVEL-MYSQL-JAVASCRIPT-VUEJS-Extension-Pack-1.0.1.vsix
+🟢 If successful, you'll see a confirmation:
+Extension was successfully installed
+
+⚠️ Note: If the command code doesn’t work, make sure the VS Code CLI is added to PATH.
+In VS Code, press Ctrl + Shift + P → Type:
+Shell Command: Install 'code' command in PATH
+
+🔁 Step 5: Restart VS Code
+Close and reopen VS Code to ensure all extensions are activated properly.
+
+🧠 What You Get
+After installation, you’ll have:
+
+✅ Laravel Blade & PHP tools
+
+✅ Vue.js (Vetur/Volar), JavaScript, ESLint, Prettier
+
+✅ MySQL support (SQLTools + driver)
+
+✅ Debugging with Xdebug, Chrome, ErrorLens
+
+✅ Git integrations
+
+✅ Productivity tools like Live Server, Code Runner, etc.
+
+🎉 Done! Start Coding Faster
+Now you're ready to build Laravel + Vue fullstack projects — with all essential tools preinstalled. No manual setup needed!
