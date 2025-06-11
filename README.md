@@ -15,7 +15,7 @@
 ## 📋 Installation
 
 ✅ Full Installation Guide (for Everyone)
-Follow these simple steps to install the Laravel Fullstack Dev Pack extension locally — no Node.js required!
+Follow these simple steps to install the Dev Pack extension on Visual Studio Code (VS Code)
 
 🔽 Step 1: Repo Download
 Go to the GitHub repository page
@@ -24,13 +24,13 @@ Click on the green “Code” button
 
 Select “Download ZIP”
 
-Extract the ZIP file anywhere on your PC (e.g., Desktop)
+Extract the ZIP file anywhere on your PC (e.g., Desktop/Downlod.....)
 
 🧩 Step 2: Open the Folder in VS Code
 Open Visual Studio Code
 
 Click on File → Open Folder
-Select the folder you just extracted (e.g., PHP_Laravel_Fullstack_Dev_Pack)
+Select the folder you just extracted (e.g., Fullstack-PHP-Laravel-MySQL-Javascript-Vue.js-Dev-Pack)
 
 💻 Step 3: Open Terminal in VS Code
 In VS Code, go to the top menu:
@@ -42,7 +42,7 @@ Example:
 makefile
 Copy
 Edit
-C:\Users\YourName\Downloads\PHP_Laravel_Fullstack_Dev_Pack>
+C:\Users\YourName\Downloads\Fullstack-PHP-Laravel-MySQL-Javascript-Vue.js-Dev-Pack>
 📦 Step 4: Install the Extension (.vsix)
 In the terminal, run this command:
 
