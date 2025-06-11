@@ -10,7 +10,15 @@
 - 🗃️ MySQL database GUI (MySQL Client + SQLTools)  
 - 🐞 Debugging: Xdebug, Chrome Debugger, ErrorLens  
 - 🌱 Git integration (GitLens, PR support, history)  
-- ✨ Productivity: Live Server, Code Runner, Path Intel, Spell Checker  
+- ✨ Productivity: Live Server, Code Runner, Path Intel, Spell Checker
+
+## 👨‍💻 Works Great For:
+- ✅ Laravel & PHP Developers
+- ✅ Vue.js Frontend Developers
+- ✅ JavaScript Developers (no Vue needed)
+- ✅ MySQL / SQL Developers
+- ✅ Fullstack Devs who want one-click setup
+
 
 ## 📋 Installation
 
