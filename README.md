@@ -22,51 +22,37 @@
 
 ## 📋 Installation
 
-✅ Full Installation Guide (for Everyone)
-Follow these simple steps to install the Dev Pack extension on Visual Studio Code (VS Code)
+🔽 Step 1: Download the Repo
+Go to the GitHub repo link
 
-🔽 Step 1: Repo Download
-Go to the GitHub repository page
+Click the green "Code" button
 
-Click on the green “Code” button
+Choose “Download ZIP”
 
-Select “Download ZIP”
+After downloading, extract/unzip it (example: Desktop or Downloads)
 
-Extract the ZIP file anywhere on your PC (e.g., Desktop/Downlod.....)
+📁 Step 2: Open the Folder in Command Prompt
+Go to the folder you just extracted
 
-🧩 Step 2: Open the Folder in VS Code
-Open Visual Studio Code
+Right-click inside the folder while holding Shift
 
-Click on File → Open Folder
-Select the folder you just extracted (e.g., Fullstack-PHP-Laravel-MySQL-Javascript-Vue.js-Dev-Pack)
+Click “Open PowerShell window here” or “Open in Terminal”
 
-💻 Step 3: Open Terminal in VS Code
-In VS Code, go to the top menu:
-Terminal → New Terminal
+✅ This will open Command Prompt/Terminal at the correct folder path.
 
-Make sure you're inside the extension folder path
-Example:
+🧩 Step 3: Run the Install Command
+Now just run this command:
 
-makefile
-Copy
-Edit
-C:\Users\YourName\Downloads\Fullstack-PHP-Laravel-MySQL-Javascript-Vue.js-Dev-Pack>
-📦 Step 4: Install the Extension (.vsix)
-In the terminal, run this command:
-
-bash
-Copy
-Edit
 code --install-extension PHP-LARAVEL-MYSQL-JAVASCRIPT-VUEJS-Extension-Pack-1.0.1.vsix
-🟢 If successful, you'll see a confirmation:
+
+If it works, you’ll see:
+
 Extension was successfully installed
 
-⚠️ Note: If the command code doesn’t work, make sure the VS Code CLI is added to PATH.
-In VS Code, press Ctrl + Shift + P → Type:
-Shell Command: Install 'code' command in PATH
+🔁 Final Step: Restart VS Code
+After installation, close and reopen VS Code.
+You're done ✅ All included extensions will now be active.
 
-🔁 Step 5: Restart VS Code
-Close and reopen VS Code to ensure all extensions are activated properly.
 
 🧠 What You Get
 After installation, you’ll have:
